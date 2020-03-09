@@ -1,5 +1,6 @@
-# Hangman
-Code of the hangman game
+# Project
+Code of the hangman game\
+<img src="https://images-eu.ssl-images-amazon.com/images/I/81xt2%2BPD0IL.png" width="10%" height="10%">
 
 # Description of the game
 The computer choose a word in his dictionary and draw blank line for each letter in the word.
